@@ -6,7 +6,8 @@
 - Buttons and Input fields:
     - Makes the website interactive
 - Anchor tags:
-    - Allows developer to create links
+    - Allows developer to create links (with `<a href="link">Text</a>`)
+    - Open webpage in new tab using (`target="_blank"`)
 - HTML Document structure:
     - !doctype html, html, head, body tags
 - List items:
