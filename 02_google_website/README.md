@@ -46,6 +46,7 @@
         - set width, display: block (if not already default), margin left/right: auto
     - flexbox
         - add wrapper, `display: flex`, `justify-content: center`
+
 - use inspect to see class styling in the browser
 
 # Breakdown of design:
