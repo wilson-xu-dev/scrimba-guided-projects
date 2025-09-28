@@ -15,5 +15,5 @@
 - Deployment:
     - Netlify
 
-# Screenshot of project:
-![personal website](Page.png)
+# Breakdown of design:
+![personal website](./images/personal_website.png)
